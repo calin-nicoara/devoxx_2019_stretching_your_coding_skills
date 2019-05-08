@@ -26,6 +26,10 @@ public class SalarySlip {
         this.taxPayable = taxPayable;
     }
 
+    public SalarySlip() {
+
+    }
+
     public Long getId() {
         return id;
     }
