@@ -1,4 +1,4 @@
-package org.neomatrix369.salaryslip;
+package org.cni.salaryslip;
 
 import java.math.BigDecimal;
 import java.util.Objects;
